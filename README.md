@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PuffelsDEV
+- 🌱 I’m currently learning python
+- 📫 How to reach me on Discord: Puffels#1188 or Email: puffelsdev@gmail.com see ya!
